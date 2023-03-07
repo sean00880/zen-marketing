@@ -13,15 +13,13 @@ const Footer = () => {
                 <div className="logo">
                   <Link href="/">
                     <a>
-                      <h3>Articulate Insurance</h3>
+                      <h1><span>Zen Marketing Solutions</span></h1>
                     </a>
                   </Link>
                 </div>
 
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam.
+                Our team of experts is dedicated to providing you with personalized and effective solutions to help you grow your business.
                 </p>
 
                 <ul className="social-links">
@@ -134,8 +132,8 @@ const Footer = () => {
                   </li>
                   <li>
                     <i className="fa-solid fa-envelope"></i>
-                    <a href="mailto:hello@pungent.com">service@articulateinsurance.com</a>
-                    <a href="mailto:support@pungent.com">support@articulateinsurance.com</a>
+                    <a href="mailto:hello@pungent.com">service@zenmarketingsolutions.com</a>
+                    <a href="mailto:support@pungent.com">support@zenmarketingsolutions.com</a>
                   </li>
                 </ul>
               </div>

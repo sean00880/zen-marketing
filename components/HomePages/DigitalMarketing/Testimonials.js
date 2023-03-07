@@ -32,10 +32,7 @@ const Testimonials = () => {
                   <div className="marketing-testimonials-content">
                     <i className="icon fa-solid fa-quote-left"></i>
                     <p>
-                      “Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Quis ipsum suspendisse ultrices gravida. Risus com
-                      modo viverra maecenas accumsan lacus vel facilisis.”
+                      “I have been blown away by the results that this marketing website has delivered for my business. From the moment I signed up, their team has been responsive, knowledgeable, and dedicated to helping me achieve my marketing goals. Their platform is incredibly user-friendly and intuitive, making it easy for me to create and launch effective campaigns.”
                     </p>
                     <div className="rating">
                       <i className="fa-solid fa-star"></i>
@@ -46,7 +43,7 @@ const Testimonials = () => {
                     </div>
                     <div className="info">
                       <h3>Sarah Taylor</h3>
-                      <span>Director</span>
+                      <span>Director of RR Law Firms</span>
                     </div>
                   </div>
                 </div>
@@ -68,10 +65,7 @@ const Testimonials = () => {
                   <div className="marketing-testimonials-content">
                     <i className="icon fa-solid fa-quote-left"></i>
                     <p>
-                      “Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Quis ipsum suspendisse ultrices gravida. Risus com
-                      modo viverra maecenas accumsan lacus vel facilisis.”
+                      “They take the time to understand my unique needs and tailor their services to help me reach my specific targets. I couldn't be more impressed with their expertise, professionalism, and commitment to delivering results. If you're looking for a marketing website that will help you take your business to the next level, look no further than this amazing team!”
                     </p>
                     <div className="rating">
                       <i className="fa-solid fa-star"></i>
@@ -82,7 +76,7 @@ const Testimonials = () => {
                     </div>
                     <div className="info">
                       <h3>Richard Turner</h3>
-                      <span>CEO & Founder</span>
+                      <span>CEO & Founder of AL Landscaping</span>
                     </div>
                   </div>
                 </div>

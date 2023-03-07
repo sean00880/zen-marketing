@@ -2113,7 +2113,8 @@ Case Studies CSS
   margin-right: 20px;
   color: #646464;
   cursor: pointer;
-  font-size: 16px;
+  font-size: 19px;
+  letter-spacing: 1px;
   font-weight: 600;
 }
 

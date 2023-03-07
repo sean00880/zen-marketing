@@ -46,7 +46,7 @@ const AboutContent = () => {
                       <i className="fa-solid fa-check"></i>
                       <h3>Global Reach</h3>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                          Offering services to clients and customers in multiple countries around the world.
                       </p>
                     </div>
                   </div>
@@ -55,7 +55,7 @@ const AboutContent = () => {
                       <i className="fa-solid fa-check"></i>
                       <h3>Flexible</h3>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                      Strategies and tactics that align with the ever-changing needs and expectations of our customers.
                       </p>
                     </div>
                   </div>
@@ -64,7 +64,7 @@ const AboutContent = () => {
                       <i className="fa-solid fa-check"></i>
                       <h3>High-End Options</h3>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                      Providing high-quality, customized marketing services to upscale and luxury brands.
                       </p>
                     </div>
                   </div>
@@ -73,7 +73,7 @@ const AboutContent = () => {
                       <i className="fa-solid fa-check"></i>
                       <h3>Dedicated Support</h3>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                        Committed to providing excellence with everything we do.
                       </p>
                     </div>
                   </div>
