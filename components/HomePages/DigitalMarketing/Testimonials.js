@@ -21,10 +21,7 @@ const Testimonials = () => {
               <div className="row align-items-center">
                 <div className="col-lg-6 col-md-6">
                   <div className="marketing-testimonials-image">
-                    <img
-                      src="/images/digital-marketing/testimonials-img1.jpg"
-                      alt="image"
-                    />
+                  <video controls src={"/video/promo-video.mp4"} style={{ width: "400px", height:"400px" }} />
                   </div>
                 </div>
 
